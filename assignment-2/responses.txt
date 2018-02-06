@@ -1,0 +1,7 @@
+- One way data travels is by packet switching.  Essentially data is requested and chopped up into packets of information, sent via cable/fiber optic cables/wifi, and reassembled at its destination.
+
+- An IP address and DNS both provide a way to uniquely identify a computer or server, with the IP address being represented numerically and a DNS or website name associated with that IP address.
+
+- A cookie is a small piece of information that a website stores on your computer that helps the website "remember" and track important information about you (e.g. login info, items in a shopping care, etc.)
+
+- The three basic parts of a URL are protocol, domain, and path.
