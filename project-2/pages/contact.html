@@ -21,6 +21,45 @@
 
       <body>
 
+        <div id="forms">
+          <form action="http://www.example.com/register.php" method="get">
+          <fieldset>
+            <legend>Register For More Recipes</legend>
+            <p>Name:
+              <input type="text" name="name" id="name-first" placeholder="First" />
+              <input type="text" name="name" id="name-middle" maxlength="4"  size="4" placeholder="MI" />
+              <input type="text" name="name" id="name-last" placeholder="Last" />
+            </p>
+
+            <p>E-mail:
+              <input type="email" name="email"  placeholder="123@email.com" autofocus />
+              <input type="submit" value="Submit" />
+            </p>
+        </div>
+
+        <div id="questionnarie">
+          <fieldset>
+            <legend>What's your favorite type of food?</legend>
+              <p>Choose one</p>
+              <input type="radio" name="food" value="chinese" checked /> Chinese food
+              <br />
+              <input type="radio" name="food" value="japanese" /> Japanese food
+              <br />
+              <input type="radio" name="food" value="mexican" /> Mexican food
+              <br />
+              <input type="radio" name="food" value="indian" /> Indian food
+              <br />
+              <input type="radio" name="food" value="bbq" /> BBQ
+              <br />
+              <input type="radio" name="food" value="tex mex" /> Tex Mex
+              <br />
+              <input type="radio" name="food" value="pub grub" /> Pub Grub
+              <br />
+              <input type="radio" name="food" value="plain" /> I only enjoy white bread and tap water
+        </div>
+
+              <br />
+
         <div id="links">
           <center><a href="../">Back to the pico</a></center>
           <center><a href="./about.html">About me</a></center>
