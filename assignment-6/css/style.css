@@ -16,7 +16,7 @@ body {
   width: 250px;
   height: 250px;
   position: absolute;
-  left: 0;
+  margin: 0 auto;
   bottom: 250px;
 }
 
@@ -25,6 +25,7 @@ body {
   width: 250px;
   height: 250px;
   position: absolute;
+  margin: 0 auto;
   left: 250px;
   bottom: 250px;
 
@@ -32,15 +33,15 @@ body {
 
 .green {
   background-color: rgb(116, 255, 115);
-  width: 250px;
+  width: 500px;
   height: 250px;
   position: absolute;
-  left: 125px;
+  left: 0px;
   bottom: 0;
 }
 
-footer {
+ p {
   position: absolute;
   left: 180px;
-  bottom: 25px;
+  bottom: 0px;
 }
