@@ -4,11 +4,11 @@ body {
 }
 
 .big-square {
-  width: 500px;
-  height: 500px;
+  width: 600px;
+  height: 600px;
   position: absolute;
-  left: 150px;
-  bottom: 150px;
+  left: 100px;
+  bottom: 100px;
 }
 
 .pink {
