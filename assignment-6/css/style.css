@@ -1,6 +1,6 @@
 body {
   font-family: broadway;
-  background-color: rgb(0, 205, 241)
+  background-color: rgb(0, 205, 241);
 }
 
 .big-square {
@@ -12,10 +12,15 @@ body {
 }
 
 .pink {
-  background-color: rgb(239, 82, 255)
-  width: 250;
-  height: 250;
-  position: absolute;
-  left: 0;
-  bottom: 0;
+  background-color: rgb(239, 82, 255);
+  width: 250px;
+  height: 250px;
+  float: left;
+}
+
+.yellow {
+  background-color: rgb(238, 255, 105);
+  width: 250px;
+  height: 250px;
+  float: right;
 }
