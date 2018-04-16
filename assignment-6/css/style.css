@@ -8,7 +8,7 @@ body {
   height: 600px;
   position: absolute;
   left: 100px;
-  bottom: 100px;
+  bottom: 50px;
 }
 
 .pink {
@@ -37,4 +37,10 @@ body {
   position: absolute;
   left: 125px;
   bottom: 0;
+}
+
+footer {
+  position: absolute;
+  left: 180px;
+  bottom: 50;
 }
